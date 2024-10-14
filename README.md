@@ -1,4 +1,4 @@
-# rationalNum
+# Rational Number Class
 MainProjectOne
 Rational Numbers
 
